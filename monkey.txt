@@ -1,2 +1,3 @@
 Monkeys are playful animals, that are good at climbing trees.
 There are different types of monkeys:
+apes, orangutans, gorillas, chimpanzees
